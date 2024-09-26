@@ -1,0 +1,21 @@
+/* start footer */
+footer{
+  width: 100%;
+  background-color: rgb(53, 51, 48);
+  padding: 20px 0px;
+
+  div{
+      width: 25%;
+      margin: 0px auto;
+      img{
+          cursor: pointer;
+          width: 85%;
+      }
+  }
+  p{
+      text-align: center;
+      color: var(--main-color);
+      padding: 10px  0px;
+  }
+}
+/* end footer */
